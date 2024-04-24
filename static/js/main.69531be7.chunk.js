@@ -192,7 +192,7 @@
                                     },
                                     children: Object(h.jsx)("img", {
                                         width: "100%",
-                                        height: "150px",
+                                        height: "100px",
                                         src: T,
                                         alt: ""
                                     })
