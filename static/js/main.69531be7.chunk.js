@@ -191,7 +191,7 @@
                                         fontSize: "20px"
                                     },
                                     children: Object(h.jsx)("img", {
-                                        width: "100%",
+                                        width: "80%",
                                         height: "100px",
                                         src: T,
                                         alt: ""
